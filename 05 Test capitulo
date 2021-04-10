@@ -1,0 +1,15 @@
+Para realizar aprendizaje supervisado, necesitamos saber los valores que toma esta variable para encontrar, por ejemplo, una explicación de por qué a veces toma un cierto valor y a veces toma otro.
+
+En Machine Learning, en el objeto explicativo intentamos encontrar relaciones entre nuestras variables
+
+El principal punto a favor de la varaible dummy es que permite entender claramente cómo están correlacionadas las variables. Esto es debido a que podemos aislar el efecto de una sola variable.
+
+Una de las características de K-Means es que asegura que cada grupo de datos tenga la misma varianza.
+
+
+El agrupamiento jerárquico o hierarchical clustering se basa en el cómputo de las distancias entre individuos. Con este cómputo, posteriormente se calcula entre individuos y grupos y, finalmente, entre grupos entre sí.
+
+
+
+
+

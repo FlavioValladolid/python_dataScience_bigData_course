@@ -1,0 +1,20 @@
+El objetivo final del modelo de regresion lineal es minimizar la distancia cuadrática de todos los puntos en relación a la recta de regresión.
+
+El modelo de regresión logística se explica como un modelo binario que devuelve valores entre 0 y 1
+
+El teorema de Bayes permite detectar causalidades entre eventos de manera muy sencilla
+
+El parámetro arg max que aparece en la función del teorema de Bayes indica que nos vamos a quedar con la categoría que tenga una mayor probabilidad.
+- Partimos siempre de la información que tenemos, obviamente, de ahí que, dada la información de la que disponemos, nos vamos a quedar con la categoría que tenga una mayor probabilidad.
+
+Los árboles de regresión hacen referencia a los datos numéricos
+
+La principal ventaja del método random forest da un peso variable a las distintas observaciones y variables
+
+Los grupos de puntos en el método de support vector machine se dividen mediante una recta
+- Con esta recta se intenta maximizar la distancia de los puntos más cercanos a la recta con esta por ambos lados.
+
+El modelo K-Nearest Neighbours hace una clasificación por categorías de sus puntos basándose en la categoría de sus vecinos más cercanos
+
+Para evitar que, a la hora clasificar binariamente no tengamos empates, es recomendable usar un número impar.
+- Por ejemplo, si estamos clasificando entre vuelos que se retrasan mucho y vuelos que no, y no sabemos cómo clasificar un vuelo concreto, si solo miramos los dos más próximos en nuestro espacio de variables y uno de ellos se ha retrasado y el otro no, no es posible clasificar el vuelo que nos interesa, por ello es mejor usar un número impar.
